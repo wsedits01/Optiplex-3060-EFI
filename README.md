@@ -1,11 +1,4 @@
-# 🚀 Optiplex 3060 Hackintosh EFI
-
-## 🖥️ OpenCore 1.0.2 EFI for Optiplex 3060 supporting latest macOS Sequoia  
-
-### 🌟 Overview
-
-This repository contains the OpenCore EFI files required to run **macOS Sequoia** on a **Dell Optiplex 3060**.  
-It’s designed to provide a **stable, optimized configuration**, allowing you to get the most out of your hardware when running macOS.
+![Banner do Projeto](images/Readme.png)
 
 ---
 
@@ -14,6 +7,13 @@ It’s designed to provide a **stable, optimized configuration**, allowing you t
 ![GitHub Repo stars](https://img.shields.io/github/stars/SEU_USUARIO/SEU_REPOSITORIO?style=for-the-badge)  
 ![GitHub forks](https://img.shields.io/github/forks/SEU_USUARIO/SEU_REPOSITORIO?style=for-the-badge)  
 [![Download EFI](https://img.shields.io/badge/Download%20EFI-Sequoia%20Optiplex%203060.zip-blue?style=for-the-badge&logo=apple)](EFI%20Sequoia%20Optiplex%203060.zip)  
+
+---
+
+### 🌟 Overview
+
+This repository contains the OpenCore EFI files required to run **macOS Sequoia** on a **Dell Optiplex 3060**.  
+It’s designed to provide a **stable, optimized configuration**, allowing you to get the most out of your hardware when running macOS.
 
 ---
 
@@ -35,27 +35,6 @@ It’s designed to provide a **stable, optimized configuration**, allowing you t
 | **RAM**               | 8GB                   |
 | **Hard Drive**        | 256GB NVMe SSD        |
 | **Wi-Fi & Bluetooth** | BCM94360CD            |
-
----
-
-## 📷 Image Preview  
-
-![Banner do Projeto](images/Readme.png)
-
----
-
-## 📥 Download & Installation  
-
-1. **Download the EFI folder** from the repository:  
-   👉 [Download EFI](EFI%20Sequoia%20Optiplex%203060.zip)  
-
-2. **Format your USB drive** as `Mac OS Extended (Journaled)` with `GUID Partition Map`.  
-
-3. **Copy the EFI folder** to the EFI partition of your USB drive.  
-
-4. **Boot your system** using the USB and select `macOS Installer`.  
-
-5. **Follow the macOS installation steps** and enjoy macOS Sequoia on your Optiplex 3060!  
 
 ---
 
