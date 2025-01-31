@@ -2,8 +2,8 @@
 
 ---
 
-![GitHub Repo stars](https://img.shields.io/github/stars/SEU_USUARIO/SEU_REPOSITORIO?style=for-the-badge)  
-![GitHub forks](https://img.shields.io/github/forks/SEU_USUARIO/SEU_REPOSITORIO?style=for-the-badge)  
+![GitHub Repo stars](https://img.shields.io/github/stars/wsedits01/Optiplex-3060-EFI?style=for-the-badge)  
+![GitHub forks](https://img.shields.io/github/forks/wsedits01/Optiplex-3060-EFI?style=for-the-badge)  
 [![Download EFI](https://img.shields.io/badge/Download%20EFI-Sequoia%20Optiplex%203060.zip-blue?style=for-the-badge&logo=apple)](EFI%20Sequoia%20Optiplex%203060.zip)  
 
 ---
