@@ -15,7 +15,6 @@ It’s designed to provide a **stable, optimized configuration**, allowing you t
 
 ![captura de tela](images/Screenshot.png)
 
----
 
 ## ⚡ Features  
 
