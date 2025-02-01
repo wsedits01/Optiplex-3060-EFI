@@ -12,7 +12,6 @@
 This repository contains the OpenCore EFI files required to run **macOS Sequoia** on a **Dell Optiplex 3060**.  
 It’s designed to provide a **stable, optimized configuration**, allowing you to get the most out of your hardware when running macOS.
 
----
 
 ![captura de tela](images/Screenshot.png)
 
