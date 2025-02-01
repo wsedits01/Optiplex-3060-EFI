@@ -15,16 +15,16 @@ It’s designed to provide a **stable, optimized configuration**, allowing you t
 
 ---
 
+![captura de tela](images/Screenshot.png)
+
+---
+
 ## ⚡ Features  
 
 ✅ **Support for macOS Sequoia** – Compatible with the latest version of macOS Sequoia.  
 ✅ **OpenCore 1.0.2** – Uses the latest version of OpenCore, ensuring better compatibility and performance.  
 ✅ **Updated drivers and kexts** – Includes the latest drivers and kexts to ensure correct operation of the hardware.  
 ✅ **Optimized configuration** – Custom configuration for **Optiplex 3060**, offering the best performance and stability.  
-
----
-
-![captura de tela](images/Screenshot.png)
 
 ---
 
