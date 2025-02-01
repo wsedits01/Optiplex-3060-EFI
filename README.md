@@ -43,6 +43,5 @@ It’s designed to provide a **stable, optimized configuration**, allowing you t
 - **Hackintosh Community** – For continuous support and development.  
 - **Hackintosh Brasil Telegram Group** For the attention and support in the creation of EFI
 
----
 
 🔹 *This build is a work in progress.*  
