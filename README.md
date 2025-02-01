@@ -1,6 +1,5 @@
 ![Banner do Projeto](images/Readme.png)
 
----
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/wsedits01/Optiplex-3060-EFI?style=for-the-badge)  
 ![GitHub forks](https://img.shields.io/github/forks/wsedits01/Optiplex-3060-EFI?style=for-the-badge)  
