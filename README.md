@@ -41,7 +41,7 @@ It’s designed to provide a **stable, optimized configuration**, allowing you t
 
 - **OpenCore Team** – For their amazing bootloader.  
 - **Hackintosh Community** – For continuous support and development.  
-- **Hackintosh Brasil Telegram Group** For the attention and support in the creation of EFI
+- **LucasFBS** For the attention and support in the creation of EFI
 
 
 🔹 *This build is a work in progress.*  
